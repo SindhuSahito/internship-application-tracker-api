@@ -122,3 +122,4 @@ It prints the table definition and all stored rows. The file can also be opened 
 | internship_api_tests.postman_collection.json | Postman collection with automated tests |
 | README.md | This file |
 | .gitignore | Keeps .venv, the database and generated files out of Git |
+| Screenshots | It contains the screenshots of postman vscode database and outputs |
